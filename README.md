@@ -1,5 +1,3 @@
-# Glasses-Detection-from-Human-Face-Images
-
 # Glass Detection on Human Faces using TensorFlow/Keras
 
 This repository contains code for a deep learning model built with TensorFlow and Keras for detecting glasses on human faces in images.
