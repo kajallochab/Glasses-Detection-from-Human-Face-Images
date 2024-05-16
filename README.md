@@ -46,7 +46,7 @@ This project is adapted from the TensorFlow tutorials on transfer learning and f
 
 ## Author
 
-[Kajal Lochab](https://github.com/kajallochab)
+[Kajal](https://github.com/kajallochab)
 [Lakshin Pathak](https://github.com/LakshinPathak)
 
 ## License
