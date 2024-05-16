@@ -20,7 +20,7 @@ The project is structured into several sections:
 
 7. **Convert to TFLite**: The trained model is converted to TensorFlow Lite format for deployment on resource-constrained devices.
 
-8. **Debugging**: Debugging code is included to verify the functionality of the TensorFlow Lite model.
+8. **Debugging**: A debugging code is included to verify the functionality of the TensorFlow Lite model.
 
 ## Usage
 
@@ -30,9 +30,9 @@ To use this code for glass detection on human faces, follow these steps:
 
 2. Prepare your dataset or use the provided dataset. Ensure that the dataset is structured correctly with appropriate class labels.
 
-3. Modify the paths and parameters in the code as necessary to fit your dataset and requirements.
+3. Modify the paths and parameters in the code to fit your dataset and requirements.
 
-4. Run each section of the code sequentially, monitoring outputs and visualizations for insights.
+4. Run each code section sequentially, monitoring outputs and visualizations for insights.
 
 5. Evaluate the model's performance on test data and fine-tune parameters as needed.
 
