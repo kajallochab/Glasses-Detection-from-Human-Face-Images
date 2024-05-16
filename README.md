@@ -16,7 +16,7 @@ The project is structured into several sections:
 
 5. **Fine-Tuning**: After initial training, the top layers of the base model are unfrozen, and the entire model is fine-tuned to improve performance further.
 
-6. **Prediction**: The trained model is used to make predictions on unseen test data. Sample predictions are visualized along with the corresponding images.
+6. **Prediction**: The trained model makes predictions on unseen test data. Sample predictions are visualized along with the corresponding images.
 
 7. **Convert to TFLite**: The trained model is converted to TensorFlow Lite format for deployment on resource-constrained devices.
 
@@ -46,7 +46,7 @@ This project is adapted from the TensorFlow tutorials on transfer learning and f
 
 ## Author
 
-[Kajal](https://github.com/kajallochab)
+[Kajal Lochab](https://github.com/kajallochab)
 [Lakshin Pathak](https://github.com/LakshinPathak)
 
 ## License
